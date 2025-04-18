@@ -65,9 +65,10 @@ Start typing topics like:
 
 ## 📌 Screenshots
 
-*(Add a screenshot of your UI here once available)*
+![UI Screenshot](UI.png)
 
 ---
+
 
 Made with 💚 for my NLP journey.  
 Future versions coming soon 🚧
