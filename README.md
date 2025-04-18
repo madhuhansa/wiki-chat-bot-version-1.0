@@ -51,14 +51,14 @@ pip install wikipedia
 ## 💡 How to Run
 
 ```bash
-python wiki_chat.py
+python wikibot.py
 ```
 
 Start typing topics like:
 
-- `Nikola Tesla`
-- `Machine learning`
-- `Black hole`
+- `What is machine learning?`
+- `Neural network`
+- `Difference between regression and classification`
 - `Natural language processing`
 
 …and get instant Wikipedia summaries in a WhatsApp-style window!
@@ -69,6 +69,4 @@ Start typing topics like:
 
 ---
 
-
-Made with 💚 for my NLP journey.  
 Future versions coming soon 🚧
